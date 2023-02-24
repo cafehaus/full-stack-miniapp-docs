@@ -1,7 +1,7 @@
 module.exports = {
   title: '微慕全栈小程序',
   description: '微慕全栈小程序开发体验版文档',
-  base: '/',
+  base: '/full-stack-miniapp-docs/',
   head: [
     [ 'link', { rel: 'shortcut icon', href: '/logo.svg' }]
   ],
