@@ -1,0 +1,21 @@
+{
+  "name": "full-stack-miniapp-docs",
+  "version": "1.0.0",
+  "description": "微慕全栈小程序体验版课程文档",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vitepress",
+    "vue"
+  ],
+  "author": "cafehaus",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.47"
+  }
+}
