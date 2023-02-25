@@ -50,15 +50,6 @@ module.exports = {
           ],
         },
       ],
-      '/config/': [
-        {
-          text: '配置',
-          items: [
-            { text: '首页', link: '/config/' },
-            { text: 'One', link: '/config/one' },
-          ],
-        },
-      ],
     },
   },
 }
