@@ -3,7 +3,7 @@ module.exports = {
   description: '微慕全栈小程序开发体验版文档',
   base: '/full-stack-miniapp-docs/',
   head: [
-    [ 'link', { rel: 'shortcut icon', href: '/logo.svg' }]
+    [ 'link', { rel: 'shortcut icon', href: '/full-stack-miniapp-docs/logo.svg' }]
   ],
   themeConfig: {
     nav: [
